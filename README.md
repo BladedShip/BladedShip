@@ -1,5 +1,5 @@
 # 💫 About Me:
-You either finish a project in under a day or you never finish. Such stands the law of the universe
+**You either finish a project in under a day or you never finish. Such stands the law of the universe.**
 
 
 ## 🌐 Socials:
@@ -11,9 +11,6 @@ You either finish a project in under a day or you never finish. Such stands the 
 ![](https://github-readme-stats.vercel.app/api?username=BladedShip&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BladedShip&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BladedShip&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=BladedShip&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BladedShip&icon=6&color=0)](https://visitcount.itsvg.in)
