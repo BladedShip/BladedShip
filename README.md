@@ -1,5 +1,5 @@
 # 💫 About Me:
-`**You either finish a project in under a day or you never finish. Such stands the law of the universe.**`
+**You either finish a project in under a day or you never finish. Such stands the law of the universe.**
 
 
 ## 🌐 Socials:
