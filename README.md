@@ -12,7 +12,7 @@ Exploring random topics until I find my next obsession just so that I can ignore
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BladedShip&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BladedShip&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+### Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="512px" height = "400px !important"/>
 
 ---
