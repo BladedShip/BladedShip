@@ -1,0 +1,18 @@
+repo_name: BladedShip/BladedShip
+report_id: 18a3b82bf751d424176bf3825d59525e
+repo_type: Public
+timestamp: '2023-11-09T14:02:13+00:00'
+requested_by: BladedShip
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
