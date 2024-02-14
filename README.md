@@ -19,3 +19,5 @@ And maybe some less common ones [Behance](https://www.behance.net/adithyajayakum
 <img src='https://randommeme-five.vercel.app/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="512px" height = "400px !important"/>
 
 ---
+
+*Note: You may be wondering who BladedShip is... Good question*
