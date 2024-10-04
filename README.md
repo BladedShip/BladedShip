@@ -1,10 +1,8 @@
 # Who am I?
-I'm someone who explores the most random topics until I find my next obsession just so that I can ignore it after a month
+Someone who explores the most random topics until they find their next obsession just so that they can ignore it after a month
 
 # What do I do?
-Basically anything and everything that interests me, hence why my career path is currently
-
-Video Editor -> VFX Artist -> Graphic Designer -> UI/UX Designer -> Frontend Developer -> Web Developer -> *no clue*
+Basically anything and everything that interests me, until it doesn't
 
 # Why do I do it?
 I love crafting stories and experiences beyond what's possible in real life. This makes me chase after any medium that helps me say that story better. 
