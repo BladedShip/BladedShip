@@ -1,5 +1,5 @@
 # Who am I?
-Someone who explores the most random topics until they find their next obsession just so that they can ignore it after a month
+I make cool shit
 
 # What do I do?
 Basically anything and everything that interests me, until it doesn't
